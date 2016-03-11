@@ -5,6 +5,7 @@
 .products {
   clear:both;
   text-align: center;
+  text-align: top;
 }
 
 .products li {
