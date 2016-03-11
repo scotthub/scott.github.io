@@ -23,7 +23,7 @@
   float:left;
 }
 .cubesmith{
-  text-align:center;
+  float:center;
   padding-left:5px;
 }
 .sidebar{
@@ -31,8 +31,10 @@
   padding-left:10px;
 }
 .face1{
+  float:center;
   padding-left:5px;
 }
 .face2{
+  float:center;
   padding-left:5px;
 }
